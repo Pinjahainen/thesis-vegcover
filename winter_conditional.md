@@ -39,7 +39,7 @@
 | Permanent crop | Stubble | 2.0 | 0 | 0 | 0 | 0 | 0.4 | 0.3 | 0.3 | 1 |
 | Permanent crop | Spring crop, not direct seeding | 32.0 | 0.6 | 0 | 0 | 0 | 0.05 | 0.05 | 0.3 | 1 |
 | Permanent crop | Winter or spring crop | 0.0 | 0.4 | 0.2 | 0 | 0 | 0 | 0 | 0.4 | 1 |
-| Permanent crop | Unknown |  | 0.142857143 | 0.1428 | 0.1428 | 0.1428 | 0.1428 | 0.1429 | 0.1428 | 1 |
+| Permanent crop | Unknown |  | 0.1428 | 0.1428 | 0.1428 | 0.1428 | 0.1428 | 0.1429 | 0.1428 | 1 |
 | Bare land after harvest | Winter crop | 0.0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
 | Bare land after harvest | Spring sown crop | 303.0 | 0.9 | 0 | 0 | 0 | 0.05 | 0.05 | 0 | 1 |
 | Bare land after harvest | Complanion crop | 107.0 | 0.8 | 0 | 0.1 | 0 | 0.05 | 0.05 | 0 | 1 |
