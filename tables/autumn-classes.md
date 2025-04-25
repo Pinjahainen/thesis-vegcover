@@ -1,0 +1,5 @@
+| Class         | Description                                                                                                                                                           |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0: NULL                | The farmer has not reported any vegetation cover information for the field. Can be either ploughed or truly NULL depending on the "Report" classification                      |
+| 1: Conservation tilled | At least 95~\% of the field area is marked as Conservation tilled. The parcel is not on vegetation cover or ploughed, but it is harvested or conservation tilled once at most. |
+| 2: Winter cover        | At least 95~\% of the field area is marked as having vegetation cover over it. Cover might be silage, winter crop, grass or any other cover.                                   |
