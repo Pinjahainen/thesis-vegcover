@@ -1,3 +1,9 @@
+Conditional probabilities (set by expert evaluation and probabilities found in certain cases) P(A|W,R)
+where 
+- A = Autumn report class {0,1,2}
+- W = Winter class {0,...,5}
+- R = Has the farmer done the Autumn report
+
 |             | A=0 (null) | A=1 (c.tillage) | A=2 (veg.cover) |
 |-------------|------------|-----------------|----------------|
 | R=0 W=0     | 1          | 0               | 0              |
