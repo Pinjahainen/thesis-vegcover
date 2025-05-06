@@ -1,5 +1,9 @@
 Conditional proobabilities of P(W|Y_0, Y_1real)  set based on expert evaluations
 
+- W = Winter class {0,...,5}
+- Y_0 = Year 0 main crop
+- Y_1real = Year 1 main crop conditional to Y_1 and Winter kill estimation
+
 
 | Year 0 main crop | Year 1 main crop | N (parcels) | P(W=0) | P(W=1) | P(W=2) | P(W=3) | P(W=4) | P(W=5) | P(W=6) | SUM |
 |------------------|------------------|----|--------|--------|--------|--------|--------|--------|--------|-----|
