@@ -1,4 +1,7 @@
-| Year 0 main crop | Year 1 main crop | N | P(W=0) | P(W=1) | P(W=2) | P(W=3) | P(W=4) | P(W=5) | P(W=6) | SUM |
+Conditional proobabilities of P(W|Y_0, Y_1real)  set based on expert evaluations
+
+
+| Year 0 main crop | Year 1 main crop | N (parcels) | P(W=0) | P(W=1) | P(W=2) | P(W=3) | P(W=4) | P(W=5) | P(W=6) | SUM |
 |------------------|------------------|----|--------|--------|--------|--------|--------|--------|--------|-----|
 | Grain | Winter crop | 0.0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
 | Grain | Spring sown crop | 73758.0 | 0.2 | 0 | 0.05 | 0.7 | 0 | 0.05 | 0 | 1 |
