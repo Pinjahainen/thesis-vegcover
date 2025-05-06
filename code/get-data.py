@@ -26,12 +26,12 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 year = int(input('Enter year:'))
 user = input('Enter username:')
 pw = getpass.getpass("Enter password: ")
-cs = 'database-details'
+cs = 'database-details' # to connect the correct database. Not available in public.
     
 # load additional files (not in database):
 
 # observations, select year
-obs_orig = pd.DataFrame(pd.read_excel(r"file.xlsx"))
+obs_orig = pd.DataFrame(pd.read_excel(r"file.xlsx")) # Observations include the in situ data in the form of year, parcel number and the observed and augmented winter class
 obs_orig=obs_orig.loc[obs_orig['vuosi']==year]
 
 # classification of iacs codes. Rename columns and set correct datatype:
