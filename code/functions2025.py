@@ -1,3 +1,11 @@
+
+''' 
+Functions used in the process. 
+
+The first three functions can only be utilized by correct connection information and password to closed database, and they cannot be run. 
+Here to mark down the number of variables needed in the process.
+'''
+
 import oracledb
 import pandas as pd
 import numpy as np
